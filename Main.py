@@ -55,10 +55,10 @@ class Commenter:
             print(" ")
             time.sleep(4)
             print("What is your Google email?")
-            email = "imitremc@gmail.com"
+            email = ""
             #email = raw_input("") #uncomment to ask for user input
             print("What is your Google password?")
-            password = "K!E87LM$"
+            password = ""
             #password = raw_input("") #uncomment to ask for user input
             print("Passing infomation to Browser...")
             time.sleep(.5)
